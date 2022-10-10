@@ -1,0 +1,10 @@
+cff-version: 1.0.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Simeonov"
+  given-names: "Ognyan"
+  orcid: "https://orcid.org/0000-0003-4749-3976"
+title: "Understanding the Drivers of Oscillations in COVID-19 Data"
+version: 1.0.0
+date-released: 2022-10-10
+url: "https://github.com/OgnyanSimeonov/Oscillations-in-COVID-19-Data"
