@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
-"""Copy of Ogy_Covid.ipynb
-
-
-Ollatiosns in COVID-19 Data
+"""
+Osllatiosns in COVID-19 Data
 For Figure 2 panels (a) and (b)
 ---------------------------------------------------------------------------
 Created by: Ognyan Simeonov (Bates College)
